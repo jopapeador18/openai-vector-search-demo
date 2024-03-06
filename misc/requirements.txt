@@ -1,7 +1,7 @@
 openai==0.27.2
 tiktoken==0.3.3
 redis==4.5.4
-langchain==0.0.132
+langchain==0.1.11
 pypdf==3.7.0
 python-dotenv==1.0.0
 pandas==1.5.3
